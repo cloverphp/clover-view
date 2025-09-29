@@ -9,7 +9,10 @@
     "autoload": {
         "psr-4": {
             "Clover\\View\\": "src/View/"
-        }
+        },
+        "files": [
+            "src/View/helper.php"
+        ]
     },
     "authors": [
         {
