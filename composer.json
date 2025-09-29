@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Clover\\View\\": "src/view/"
+            "Clover\\View\\": "src/View/"
         }
     },
     "authors": [
